@@ -1,0 +1,47 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+phone_gpu/
+*.egg-info/
+*.egg
+
+# Streamlit temp files
+.streamlit/
+
+# Data, reports, history
+history/
+report/
+frames/
+models/
+test/
+*.csv
+*.mp4
+*.avi
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python bytecode
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
